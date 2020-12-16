@@ -21,4 +21,4 @@ Analysis:
 1. 美國大選資料集.ipynb --> Pratice
 
 face recognition
-1. face.py --> O
+1. face.py --> OpenCV Face Recognition
