@@ -1,6 +1,6 @@
 # Project
 聲紋辨識:
-1. preprocss.py 為音檔 --> mfcc向量
+1. preprocss.py --> 為音檔轉換為mfcc向量程式
 2. voice_cnn.ipynb --> 為主要的CNN Model
 3. American_accent_server.ipynb --> 為後端Server接收音檔並自動轉換為mfcc向量送入模型預測
 4. Pika Server、Will Smith | Server等為嘗試明星語音分辨
