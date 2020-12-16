@@ -9,7 +9,7 @@ from datetime import datetime
 
 
 already_list=[]
-already = pd.read_json('已經寄送的名單/1130寄送之名單.json', encoding='utf-8')
+already = pd.read_json('XXX.json', encoding='utf-8')
 for n in already.iloc:
     already_list.append(n['captcha'])
 
@@ -48,7 +48,7 @@ def send_email():
             from_addr = info["account"]
             to_addr = email
 
-            Subject = "中華物聯網與人共智慧國際大會"
+            Subject = "XXX"
 
             message = MIMEMultipart()
             message['From'] = from_addr
