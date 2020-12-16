@@ -20,4 +20,5 @@ fasttext.ipynb --> 文字預測模型(用於聲紋辨識判別語句)
 Analysis:
 1. 美國大選資料集.ipynb --> Pratice
 
-
+face recognition
+1. face.py --> O
